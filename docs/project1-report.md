@@ -14,4 +14,7 @@ Understand dictionary and brute-force attacks.
 - Custom wordlists improve targeting.
 
 ## Screenshots/Logs
-<image-card alt="Screenshot" src="../logs/project1-screenshot1.png" ></image-card>
+
+![Screenshot](../logs/project1-screenshot1.png)
+
+<!-- If the image still doesn't render on GitHub, ensure the file exists at 'logs/project1-screenshot1.png', the path is correct relative to this file, and the filename's case matches exactly. -->

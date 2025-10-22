@@ -1,0 +1,5 @@
+user2:admin
+user3:123456
+user4:letmein
+
+3 password hashes cracked, 2 left
